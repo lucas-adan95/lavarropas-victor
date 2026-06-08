@@ -10,6 +10,11 @@ export const metadata: Metadata = {
   title: 'Victor - Servicio Técnico de Lavarropas',
   description: 'Reparación multimarca y venta de lavarropas usados en Morón, Zona Oeste. Servicio técnico especializado con garantía.',
   generator: 'v0.app',
+  
+verification: {
+  google: 'ZAO6alwj_cjqymL2kIB_gQlnke-1Drhj6NBwYTiG9zM',
+},
+  
   icons: {
     icon: [
       {
